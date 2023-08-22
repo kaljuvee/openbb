@@ -1,0 +1,4 @@
+pandas
+openbb
+pywry
+streamlit
